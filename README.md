@@ -1,4 +1,4 @@
-# Assignment_payamzowghi
+# elb_cluster_wordpress 
 
 ## Implement a web application that is deployed across at least two availability zones within a single region in AWS with Terraform and bash scripting
 
